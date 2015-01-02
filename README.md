@@ -8,6 +8,7 @@ Resources
 ### Ruby
 
 * [Writing a compiler in Ruby, bottom up](http://www.hokstad.com/compiler)
+* [APIs on Rails](http://apionrails.icalialabs.com/book) - Building REST APIs with Rails
 
 ### D
 
