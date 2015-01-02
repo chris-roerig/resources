@@ -1,6 +1,10 @@
 Resources
 =========
 
+### Good Reads
+
+* [Structure and Interpretation of Computer Programs, second edition](http://mitpress.mit.edu/sicp/full-text/book/book-Z-H-4.html)
+
 ### Ruby
 
 * [Writing a compiler in Ruby, bottom up](http://www.hokstad.com/compiler)
