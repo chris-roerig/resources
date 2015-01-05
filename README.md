@@ -4,6 +4,7 @@ Resources
 ### Good Reads
 
 * [Structure and Interpretation of Computer Programs, second edition](http://mitpress.mit.edu/sicp/full-text/book/book-Z-H-4.html)
+* [How to Design Programs](http://www.htdp.org/)
 * [The Twelve-Factor App](http://12factor.net/) - The twelve-factor app is a methodology for building software-as-a-service apps
 
 ### Ruby
