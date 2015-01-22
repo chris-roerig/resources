@@ -7,6 +7,10 @@ Resources
 * [How to Design Programs](http://www.htdp.org/)
 * [The Twelve-Factor App](http://12factor.net/) - The twelve-factor app is a methodology for building software-as-a-service apps
 
+### Java
+
+* [Java quick guide](http://www.tutorialspoint.com/java/java_quick_guide.htm)
+
 ### Ruby
 
 * [Writing a compiler in Ruby, bottom up](http://www.hokstad.com/compiler)
